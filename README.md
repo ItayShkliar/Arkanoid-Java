@@ -41,4 +41,4 @@ ant run
 
 ## Preview
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/game_preview.png)
